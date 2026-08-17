@@ -1,4 +1,4 @@
-# Projetos
+#Base Script para Banco de Dados
 Sistema de Pedidos em Python
 
 Sistema simples de gerenciamento de pedidos desenvolvido em Python, com integração ao banco de dados MySQL.
